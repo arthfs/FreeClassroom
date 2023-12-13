@@ -1,4 +1,4 @@
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBwangya2w3N2dxeDJ3em9hYzd5Ymozajc4c2o2aGFhamZtcGN6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GWq8TV3vCLgfoOodGC/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBwangya2w3N2dxeDJ3em9hYzd5Ymozajc4c2o2aGFhamZtcGN6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GWq8TV3vCLgfoOodGC/giphy.gif" width = 200px> <br> <br>
 
 FreeClassrooms App
 
